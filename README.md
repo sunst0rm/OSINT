@@ -2,7 +2,6 @@
 
 --> website to get informations about website
 
-*
 <br />
 <br />
 
@@ -10,4 +9,4 @@
 
 --> alternative to google image search
 
-*
+
